@@ -26,7 +26,7 @@ export default function TaskPie() {
 
     return (
         <div>
-            <h4 className='task-pie-title'>Tasks</h4>
+            <h4 className='task-pie-title'>Courses</h4>
         <div className='task-pie'>
             <Doughnut data={data}  width={1} height={1}/>
         </div>

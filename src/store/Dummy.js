@@ -1,41 +1,41 @@
 export const tasks = [
     {
         id: 1,
-        title: 'Code Review',
+        title: 'ABC of Code Review',
         duedate: 'August 3, 2021',
-        type: 'Remainder',
+        type: 'Course',
         status: 'Completed',
         user: 1
     },
     {
         id: 2,
-        title: 'Dev Meeting',
+        title: 'Oratory and Presentations',
         duedate: 'August 25, 2021',
-        type: 'Event',
+        type: 'Course',
         status: 'Active',
         user: 2
     },
     {
         id: 3,
-        title: 'Send End of Year invitation email',
+        title: 'How to build a Full Stack App',
         duedate: 'October 15, 2021',
-        type: 'Remainder',
+        type: 'Course',
         status: 'Active',
         user: 3
     },
     {
         id: 4,
-        title: 'Board Meeting',
+        title: 'Fintech Values',
         duedate: 'August 10, 2021',
-        type: 'Event',
+        type: 'Course',
         status: 'Completed',
         user: 4
     },
     {
         id: 5,
-        title: 'Recruiter reunion',
+        title: 'Scrum - from cero to hero',
         duedate: 'July 27, 2021',
-        type: 'Call',
+        type: 'Course',
         status: 'Ended',
         user: 5
     },
