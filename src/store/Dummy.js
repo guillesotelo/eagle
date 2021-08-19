@@ -33,7 +33,7 @@ export const tasks = [
     },
     {
         id: 5,
-        title: 'Scrum - from cero to hero',
+        title: 'Scrum - from zero to hero',
         duedate: 'July 27, 2021',
         type: 'Course',
         status: 'Ended',
